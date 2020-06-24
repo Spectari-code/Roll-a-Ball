@@ -10,7 +10,7 @@ I was looking for a fun intro into scripting in Unity using C# .
 
 ## How to run the game?
 
-Donwload the "Builds" folder and run the .exe inside.
+Download the "Builds" folder and run the .exe inside.
 
 ## Interested in the C# code?
 
